@@ -20,7 +20,7 @@ public:
     void administrator();
     void buyer();
     void add();
-    void edit();
+    void edit()
     void rem();
     void list();
     void receipt();
