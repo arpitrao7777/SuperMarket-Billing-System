@@ -22,7 +22,7 @@ public:
     void add();
     void edit();
     void rem();
-    void list();
+    void list()
     void receipt();
 };
 
